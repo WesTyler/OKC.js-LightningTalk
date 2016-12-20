@@ -8,6 +8,7 @@ Presentation slides can be found [here](http://slides.com/westyler/deck).
 [Joi](https://github.com/hapijs/joi)
 
 [Felicity](https://github.com/xogroup/felicity)
+
 [Felicity Blog Post](http://blog.eng.xogrp.com/post/153784367849/introducing-felicity)
 
 ## Code Examples
